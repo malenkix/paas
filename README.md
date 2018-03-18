@@ -1,6 +1,6 @@
 # paas
 
-## pandalit
+## pandalith
 
 This is a simple monolithic demo for the application and its features.
 
